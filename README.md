@@ -30,6 +30,6 @@
 
 <img src="https://hrcdn.net/s3_pub/istreet-assets/1WAxxf03EtrUdnq3heRX2g/football.gif" title="Length Converter" alt="Length Converter" width="350" height="300"/>
 
-🙏 [Buy me a coffe](https://github.com/hackerranktest-solution/buymeacoffe)
+🙏 [Buy me a coffe](https://github.com/hackerrank-test/buymeacoffe)
 
 Mail to: [hackerranktest@outlook.com](mailto:hackerranktest@outlook.com)
