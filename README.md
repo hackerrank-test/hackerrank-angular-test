@@ -33,3 +33,6 @@
 🙏 [Buy me a coffe](https://github.com/hackerrank-test/buymeacoffee)
 
 Need a solution? Don't hesitate to mail to: [hackerranktest@outlook.com](mailto:hackerranktest@outlook.com)
+
+If you are preparing a test, feel free to ask to me to help online for your test: [https://calendly.com/hackerranktest/60min](https://calendly.com/hackerranktest/60min)
+
